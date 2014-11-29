@@ -3,6 +3,7 @@
 "name": "arbor-lasrie",
 "version": "1.0",
 "license": "MIT",
+"main":"lib/*"
 "ignore": [
 ]
 }

@@ -1,5 +1,14 @@
 arbor.js
 --------
+This arborjs version basically is the same as the other arborjs package.
+I added bower support, moved an example renderer.js and an example
+graphics.js to the lib folder, so it can be used more easily. I also 
+added some stuff to the renderer, so it behaves like the graph on the 
+website of arbor.js.
+Done while Hackathon Stuttgart goes University 2014.
+
+
+
 
 Arbor is a graph visualization library built with web workers and
 jQuery. Rather than trying to be an all-encompassing framework, arbor
